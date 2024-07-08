@@ -50,7 +50,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Anand5d7/Weather-App.git
+    git clone https://github.com/Anand5d7/Shopgracias-Weather-App.git
     ```
 
 2. Navigate to the project directory:
