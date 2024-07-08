@@ -56,7 +56,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 2. Navigate to the project directory:
 
     ```bash
-    cd weather-app
+    cd weather-dashboard
     ```
 
 3. Install dependencies:
@@ -93,16 +93,9 @@ The Weather App is built using:
 
 You can view screenshots of the application 
 
- ![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_15_31](https://github.com/Anand5d7/Weather-App/assets/156296146/eda73662-5d10-439d-82b0-dfcd63249294)
+![Shopgracias-Weather Dashboard](https://github.com/Anand5d7/Shopgracias-Weather-App/assets/156296146/b398a57a-f760-4bfb-b070-b62f909380b8)
 
-![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_15_59](https://github.com/Anand5d7/Weather-App/assets/156296146/6e5859ed-279e-434a-93af-10435eea9c89)
-
-![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_16_14](https://github.com/Anand5d7/Weather-App/assets/156296146/c49d6771-628a-4cd9-aed6-41b85e01c997)
-
-![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_16_24](https://github.com/Anand5d7/Weather-App/assets/156296146/f39b621c-9c16-410d-85d5-2ee1cffa2220)
-
-![Weather App and 1 more page - Personal - Microsoft​ Edge 16-06-2024 15_17_05](https://github.com/Anand5d7/Weather-App/assets/156296146/34d2f64b-30d9-4446-b6d0-199cf8705914)
-
+![Shopgracias-Weather Dashboard (2)](https://github.com/Anand5d7/Shopgracias-Weather-App/assets/156296146/8c38bd1b-7efd-4ba2-9ba1-9dd34f9e98a6)
 
 
 ### Live Demo
@@ -110,7 +103,7 @@ You can view screenshots of the application
 You can view a live demo of the application.
 
 
-https://github.com/Anand5d7/Weather-App/assets/156296146/ed7edfc5-e815-47ba-bc37-2f2ba126b6af
+
 
 
 
